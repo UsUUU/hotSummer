@@ -1,0 +1,22 @@
+{
+    "name": "youran",
+    "displayName": "hotSummer theme",
+    "publisher": "youran",
+    "description": "a kind of comfortable theme",
+    "version": "1.0.8",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "hotSummer",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hotSummer-color-theme.json"
+            }
+        ]
+    }
+}
